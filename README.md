@@ -13,8 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslil&show_icons=true&locale=en&layout=compact" alt="aslil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslil&show_icons=true&locale=en" alt="aslil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslil&" alt="aslil" /></p>
-
 ![snake gif](https://github.com/Aslil/Aslil/blob/output/github-contribution-grid-snake.gif)
