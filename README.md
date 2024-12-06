@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aslı</h1>
 <h3 align="center">Computer engineering student @Tedu.</h3>
 
-- 📫 How to reach me **aslilgn@gmail.com**
-
+<p align="center">📫 How to reach me <strong>aslilgn@gmail.com</strong></p>
 
 
 
