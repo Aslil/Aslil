@@ -6,8 +6,7 @@
 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslil&show_icons=true&locale=en&layout=compact&bg_color=2f2f2f&text_color=ffffff&hide=jupyter%20notebook" alt="aslil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslil&show_icons=true&locale=en&layout=compact&bg_color=2f2f2f&text_color=ffffff" alt="aslil" /></p>
 
 
 
