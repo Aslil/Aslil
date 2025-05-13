@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Aslı</h1>
   <h3 align="center">Computer engineering student @Tedu.</h3>
 
-  <p align="center">📫 How to reach me <a href="mailto:asiligln@gmail.com">asiligln@gmail.com</a></p>
+  <p align="center">📫 How to reach me <a href="mailto:asiligln@gmail.com">aslilgn@gmail.com</a></p>
 
   <h3 align="center">📊 Most Used Languages</h3>
   <p align="center">
