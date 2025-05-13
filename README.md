@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aslı</h1>
-<h3 align="center">Computer engineering student @Tedu.</h3>
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Aslı</h1>
+  <h3 align="center">Computer engineering student @Tedu.</h3>
 
-📫 How to reach me **asiligln@gmail.com**
+  <p align="center">📫 How to reach me <a href="mailto:asiligln@gmail.com">asiligln@gmail.com</a></p>
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aslil&layout=compact&theme=tokyonight)
+  <h3 align="center">📊 Most Used Languages</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslil&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  </p>
+</p>
