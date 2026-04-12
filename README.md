@@ -6,6 +6,6 @@
 
   <h3 align="center">📊 Most Used Languages</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aslil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aslil&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </p>
 </p>
