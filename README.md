@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi 👋, I'm Aslı</h1>
-  <h3 align="center">Computer Engineer ¯\_(ツ)_/¯</h3>
+  <h3 align="center">Computer Engineer (⌐■_■)</h3>
 
   <p align="center">📫 How to reach me <a href="mailto:aslilgn@gmail.com">aslilgn@gmail.com</a></p>
 
